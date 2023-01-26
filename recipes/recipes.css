@@ -1,0 +1,18 @@
+body {
+    background-color: #f5efff;
+    color: #5F5C5C;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    margin: 0px 15%;
+}
+
+h1, h2 {
+    color: #7371fc;
+}
+
+.main-photo {
+    object-fit: cover;
+    width: 20vh;
+    height: 20vh;
+}
+
