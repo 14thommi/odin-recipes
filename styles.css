@@ -1,0 +1,36 @@
+/* My first CSS experience */
+
+body {
+    background-color: #F5EFFF;
+    padding: 0px 15%;
+    font-family: Helvetica, Arial,sans-serif;
+    text-align: left;
+}
+
+h1, h2 {
+    color: #7371FC;
+    font-weight: 700;
+    font-style: normal;
+}
+
+div.title {
+    margin: 0%;
+    padding: 0%;
+    height: 40px;
+}
+
+div.separator {
+    background-color: #7371FC;
+    height: 4px;
+
+}
+
+div.content {
+    margin-top: 30px;
+}
+
+img {
+    width: 21vw;
+    height: 21vw;
+    object-fit: cover;
+}
